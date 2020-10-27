@@ -1,6 +1,6 @@
 {
   "name": "downstream-service-health-check",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -23,7 +23,10 @@
     "url": "git+https://github.com/hrishikeshdkakkad/downstream-service-health--check.git"
   },
   "keywords": [
-    "health-check", "micro service healthchecks", "express healthcheck", "node healthchecks"
+    "health-check",
+    "micro service healthchecks",
+    "express healthcheck",
+    "node healthchecks"
   ],
   "author": "Hrishikesh D Kakkad",
   "license": "ISC",
