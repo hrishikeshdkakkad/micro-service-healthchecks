@@ -23,7 +23,7 @@
     "url": "git+https://github.com/hrishikeshdkakkad/downstream-service-health--check.git"
   },
   "keywords": [
-    "health-check"
+    "health-check", "micro service healthchecks", "express healthcheck", "node healthchecks"
   ],
   "author": "Hrishikesh D Kakkad",
   "license": "ISC",
