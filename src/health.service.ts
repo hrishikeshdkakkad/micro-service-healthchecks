@@ -7,7 +7,7 @@ export class HealthService {
 
   constructor(checks: IHealthIndicator[]) {
     if (checks.length === 0) {
-      throw new EmptyInitializationError('Initialized with Zero depencencies');
+      throw new EmptyInitializationError('Initialized with Zero dependencies');
     }
     this.checks = checks;
   }
